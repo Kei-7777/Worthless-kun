@@ -1,0 +1,13 @@
+name: Worthless
+version: 1.0
+main: kei.com.worthless.Worthless
+author: Kei
+api-version: 1.15
+depend:
+  - SkinsRestorer
+loadbefore:
+  - SkinsRestorer
+commands:
+  worthless:
+    aliases:
+      - wl
